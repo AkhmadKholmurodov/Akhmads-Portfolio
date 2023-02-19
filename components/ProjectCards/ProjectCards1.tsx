@@ -2,9 +2,9 @@ import React from 'react'
 import {motion} from 'framer-motion'
 
 
-type Props = {}
 
-export default function ProjectCards1({}: Props) {
+
+export default function ProjectCards1() {
   return (
     <article className=' h-[600px] flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 md:w-[600px] w-[500px] xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200'>
 

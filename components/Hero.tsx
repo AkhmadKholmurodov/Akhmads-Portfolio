@@ -1,4 +1,4 @@
-import { delay } from 'framer-motion'
+// import { motion } from 'framer-motion'
 import React from 'react'
 import {Cursor, useTypewriter} from 'react-simple-typewriter'
 import BackgroundCircle from './BackgroundCircle'
@@ -7,7 +7,7 @@ import Link from 'next/link'
 type Props = {}
 
 export default function Hero({}: Props) {
-    const [text, count] = useTypewriter({
+    const [text] = useTypewriter({
         words: [
             "Hi My name is Akhmad",
             "Which is a Developer, Designer, Creator", 

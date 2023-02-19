@@ -5,10 +5,10 @@ import ProjectCards2 from './ProjectCards/ProjectCards2'
 import ProjectCards3 from './ProjectCards/ProjectCards3'
 
 
-type Props = {}
 
-export default function Projects({}: Props) {
-    const projects = [1, 2, 3, 4, 5]
+
+export default function Projects() {
+    // const projects = [1, 2, 3, 4, 5]
   return (
     <motion.div
     initial={{opacity: 0}}
@@ -19,7 +19,7 @@ export default function Projects({}: Props) {
             Projects
         </h3>
 
-        <div className=' w-full  flex space-x-5 overflow-x-scroll p-12 snap-x snap-mandatory scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#333333]/80'>
+        <div className=' w-full  flex space-x-5 overflow-x-scroll p-12 snap-x snap-mandatory scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/40'>
             <ProjectCards1/>
             <ProjectCards2/>
             <ProjectCards3/>
