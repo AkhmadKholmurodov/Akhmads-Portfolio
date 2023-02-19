@@ -10,9 +10,9 @@ const images = [
 
 ]
 const miniIcons = [
-    {src: "https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"},
-    {src: "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3219990/nextjs-icon-md.png"},
-    {src: "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"},
+    {src: "https://www.freeiconspng.com/thumbs/repair-workshop-icon-png/hardware-icon-9.png"},
+    {src: "https://cdn4.iconfinder.com/data/icons/bitcoin-mining-and-more/405/Asset_1240-512.png"},
+    {src: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ethereum-eth-icon.png"},
 
 ]
 
@@ -41,8 +41,8 @@ export default function ExperienceCard({}: Props) {
        
 
         <div className=' px-0 md:px-10 overflow-y-scroll'>
-            <h4 className='text-4xl font-light'>Team Member Cloud Computing Of Daegu U. </h4>
-            <p className=' font-bold text-2xl mt-1'>AI car</p>
+            <h4 className='text-4xl font-light'>ZikBang company of Uzbekistan </h4>
+            <p className=' font-bold text-2xl mt-1'>Computer, Data Fixer</p>
             <div className=' flex space-x-2 my-2'>
 
                 {miniIcons.map((image, index) => (
@@ -53,14 +53,14 @@ export default function ExperienceCard({}: Props) {
 
                 
             </div>
-            <p className=' uppercase py-5 text-gray-300'> Started Work... - Ended..</p>
+            <p className=' uppercase py-5 text-gray-300'> 2020/04... - 2021/02</p>
 
             <ul className=' list-disc space-y-1 text-lg'>
-                <li>Summary PointsSummary PointsSummary PointsSummary Points</li>
-                <li>Summary PointsSummary PointsSummary PointsSummary Points</li>
-                <li>Summary PointsSummary PointsSummary PointsSummary Points</li>
-                <li>Summary PointsSummary PointsSummary PointsSummary Points</li>
-                <li>Summary PointsSummary PointsSummary PointsSummary Points</li>
+                <li>Most of our company deals with sale and rent of houses in Tashkent</li>
+                <li>We mined bitcoin and ethereum at this company</li>
+                <li>I was installer and fixer competers</li>
+                
+
             </ul>
         </div>
     </article>

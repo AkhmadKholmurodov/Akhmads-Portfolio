@@ -18,17 +18,18 @@ export default function ProjectCards1({}: Props) {
                     transition={{duration: 1.2}}
                     viewport={{once: true}}
                     className=' max-h-72'
-                    src="https://lh3.googleusercontent.com/ZfsEiBdQOKyDcQ2Vu28322ZFnLKsqTCL3quojkcYb7CYDNh-ju4P0idUIU0mTsGt0HTrUJwtq8VWoSRKndEbt6feRewESO9ozJRM2uMpd3Va3G9Wte5UbO5nreFm3Pi_KPqdKdJjyGcXtLCSxfksjFj7C139Du5rET_Ba5yEd8mOJsyv3MIEaBwJpIHKD9eZvmEEzJEfbYyXawP0n8XFryd-JbjdJCjpoyozriIVwQTBLK6Cu6CruoSpqx30i9pzpKdhoXdgXcjtsYYJbl9VJtgO-N5s8eJeaRr-c5uq5_8AyFBp7BOIKnjq5PbwedxV0O9UyR01_ghN67KtJLVjiEEjW93qR0WUdG-fKASLfQj7DSNTzKzxvYckayA6_7QZScLvzuG4oHl6pxDrynUw1uJtYi_qTrKJcWu_5sIVZl1BsFCSdJ8YlXMn3Z23BcYjaIOd6F87N3ZRMNqyG8cHFm4o4v9H8T0tzTqpSrkIFC3My4C6XNTHTDR5Q3RuAYLkBFqLmLI5CkDyQiIMvORNA5ZYpswag8V8A6Tl4GngyMr5cmYNQGJJdO49ktfS3dg2CxQGmZA47oinq9hzGTooHQdET2QjCwozgwqPGnebfFsKhmS0wo5mBftpTfOPb1MWmvJj211wwX9lBslUtTEOLTh-D2l0ofwc9MY3MEk2txvYnK9HddnTot68zaLAnYftpuAWmJZAa6ROQ7VGaN-G_nJTRI2RpFmCiihRZw-23qYKeuAy0ma2p2ey8SISN6URI2SV-i-k0F2NgdPrpIDnjJeY8o3KfB_uCvTtOc6P_2L1ocT46KPHQlMo2xcMJjlYH0tmIf2f4l7wWTETRqBy9o_LDwWb0d7IVmgJEqqj7tB8apaI3D10nosQ3b3MLP7Vu_d_E8jFVNvTtyIOQBKN6vt7ZO5a7oAKghGTzdzV8t4T=w2874-h1522-no?authuser=0" alt="" />
+                    src="https://lh3.googleusercontent.com/Pc0Tmvy8PrTh7h6nH7jzJdOqxHnDDj2RxkZcgg5T0HTGJ-gIQ8AW7IJD6t-sFOlMmPBkDJ-ScjsogWdwMY2fNZe_V7JdNNAQ67KyX89_-UZhSGeuX7GC3k9Ah95sGLHTmdTc2e-M_nHz_aIizDp_MAhIIi-IafIBnYmSHfauL31UStXgCON5m6dHBi-oe90PnYqlz5VBd2SGCq43FiagWGQidxBxCEBKfQdGN9h53wNADJmsJ2qOoxwTk8WermXUp0Mpx-nTpgjzdO4VMsLKOM7yFtzy7QalRZdkiwyla_Fn1XjrMujGNFD2jB8eX0vW5g8jpv5hedVZBJhrpw7bi5ufqJdypLoT7ZdK69ojdKOWGPE6aaofQS59O-OH_ldKiuXrrBaqiEkWSi0N2tMKzR2m73dTDCjJUkUBIE6uBHp8b40W28k2CzggFeZeq60z_7aywYd7-ZgySlKocVmtjHQ4FNnNB8ZdKuTnwZ0AbNSRaFIiTAXf7yH9aLsXC4VG82_GCrZlphLbW8tMR8rQL21yE7ZHH_OSFrGXFdhl9jdvyzzszURFpXqtWBID7ZxM0Ix1rLSXM0SXqmwQknGTZxtC6Xs05zc-aTm3GV5LnXH7um3LdKuYa4sreY9eKqWl09enubO6sXElG2jb_7bnWYlT0OPaYLxcjziNlqELWgc8f6BZIOkGJlTal8YHtf9Yd0GbTmyDhUVeo5oRL4Zivyo4laq8TgGUhMv-aVVVGrI2AtBfHC9sqFuM2TSw8IaL2KhtnD67EFjfVZzbHTRbwneCteQ1xdEElJbIAG_8Zu1si4WeTapP6tOiO0bqvZTiYUnV9nbBjlIIJgayp1mz3cDcYs0Xvx_b4J_7hh3KY5894AAKspEj7e2jUY66HCrYuCrN_SbdzmH97oEUrdQXVv5oIWotlIOepTJrPKhXnlmy=w2880-h1638-no?authuser=0" alt="" />
                 
                     <div className=' space-y-10 px-0 md:px-10 max-w-6xl'>
-                        <h4 className=' text-4xl font-semibold text-center'>
-                            <span className='underline decoration-[#F7AB0A]/50'> Car remote </span>{' '} 
-                        </h4>
+                        <a href="https://github.com/AkhmadKholmurodov/netflix">
+                            <h4 className=' text-4xl font-semibold text-center'>
+                                <span className='underline decoration-[#F7AB0A]/50'> Netflix app clone </span>{' '} 
+                            </h4>
+                        </a>
                         
                     </div>
                     <p className=' text-lg text-center md:text-left'>
-                        This is my first time of making Team Project, With my brothers of Cloud Computing Team. <br /> With this app, we can remote any cars.
-                        While Coding, we used Reactjs, MUI liblary, <br /> NodedJs and some other libraries
+                         When I was Learning ReactJS first time. <br /> I made Some Projects like this and now I found it necessary to release it <br /> this app made very simple but comfortable to using and finding any type of movies. I used to ReactJS, Firebase codes
                     </p>
         </article>
             

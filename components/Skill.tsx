@@ -24,6 +24,7 @@ const Urls = [
     {src: 'https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png'},
     {src: 'https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png'},
     {src: 'https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png'},
+    {src: 'https://v4.material-ui.com/static/logo.png'}
 
 
 ]

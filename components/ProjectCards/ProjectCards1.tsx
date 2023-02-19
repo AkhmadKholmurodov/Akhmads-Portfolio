@@ -9,26 +9,28 @@ export default function ProjectCards1({}: Props) {
     <article className=' h-[600px] flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 md:w-[600px] w-[500px] xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200'>
 
         
-                    <motion.img
-                    initial={{
-                        y: -300,
-                        opacity: 0,
-                    }}
-                    whileInView={{opacity: 1, y:0}}
-                    transition={{duration: 1.2}}
-                    viewport={{once: true}}
-                    className=' max-h-72'
-                    src="https://lh3.googleusercontent.com/ZfsEiBdQOKyDcQ2Vu28322ZFnLKsqTCL3quojkcYb7CYDNh-ju4P0idUIU0mTsGt0HTrUJwtq8VWoSRKndEbt6feRewESO9ozJRM2uMpd3Va3G9Wte5UbO5nreFm3Pi_KPqdKdJjyGcXtLCSxfksjFj7C139Du5rET_Ba5yEd8mOJsyv3MIEaBwJpIHKD9eZvmEEzJEfbYyXawP0n8XFryd-JbjdJCjpoyozriIVwQTBLK6Cu6CruoSpqx30i9pzpKdhoXdgXcjtsYYJbl9VJtgO-N5s8eJeaRr-c5uq5_8AyFBp7BOIKnjq5PbwedxV0O9UyR01_ghN67KtJLVjiEEjW93qR0WUdG-fKASLfQj7DSNTzKzxvYckayA6_7QZScLvzuG4oHl6pxDrynUw1uJtYi_qTrKJcWu_5sIVZl1BsFCSdJ8YlXMn3Z23BcYjaIOd6F87N3ZRMNqyG8cHFm4o4v9H8T0tzTqpSrkIFC3My4C6XNTHTDR5Q3RuAYLkBFqLmLI5CkDyQiIMvORNA5ZYpswag8V8A6Tl4GngyMr5cmYNQGJJdO49ktfS3dg2CxQGmZA47oinq9hzGTooHQdET2QjCwozgwqPGnebfFsKhmS0wo5mBftpTfOPb1MWmvJj211wwX9lBslUtTEOLTh-D2l0ofwc9MY3MEk2txvYnK9HddnTot68zaLAnYftpuAWmJZAa6ROQ7VGaN-G_nJTRI2RpFmCiihRZw-23qYKeuAy0ma2p2ey8SISN6URI2SV-i-k0F2NgdPrpIDnjJeY8o3KfB_uCvTtOc6P_2L1ocT46KPHQlMo2xcMJjlYH0tmIf2f4l7wWTETRqBy9o_LDwWb0d7IVmgJEqqj7tB8apaI3D10nosQ3b3MLP7Vu_d_E8jFVNvTtyIOQBKN6vt7ZO5a7oAKghGTzdzV8t4T=w2874-h1522-no?authuser=0" alt="" />
+                    <a href="https://github.com/AkhmadKholmurodov/StarBucks-Coffee" className=' cursor-pointer'>
+                        <motion.img
+                        initial={{
+                            y: -300,
+                            opacity: 0,
+                        }}
+                        whileInView={{opacity: 1, y:0}}
+                        transition={{duration: 1.2}}
+                        viewport={{once: true}}
+                        className=' max-h-72'
+                        src="https://lh3.googleusercontent.com/qTqxee5myXsX7a1n8hin8rgpjYkux1RyHI4hSJziAn5bzbCJ1YaCh45ResXceJV1UfKx_tE9vVdXNXu22ZWe_W4jUQKOijOjuWHj2p9a_bc1EaNYhZmPxCjpAyQ3DF3HeF_Ez4IpuEPSYc3CB4-7LyVtkihrghZLX2VFMN7VoVBYL1xeR1UePLRkx9-RcaWNAE_Z_rmvHDd28_7XndUrJnIfIda8QslhosGoPJdMV0be9qNer_iWRPTKleXrGpCjRTezo0_YjDkz4kULk_HHUM4zGXDIp2866YhzwImuL_0NnEDCXmDfN6Y6UIkDnL0UiOkGuOsgJd8O74V41GJrT5whyOtnCZAPbIgycpDT1TBEAHZR3b4cs2y4_V5Rsde5AdTYe2Naiyx68Igtm8mwiEu3KcdoGJtL0E7hgD3phRvTyR6X_eHbUtevVE4n0o1JWsDOwCuDoihSkvJZCTW7q4oG71tdhpn9of5rsoGsXIUxg_OqP1QWqupzgBVeLSFUuEdf_ADX22uxlxt8nbZhmRqFaXbIKQJ1zUIMH9BVu-Xj8GJFu_B7sD0SNd2X5lfGDcOu6dIGUD3d80rrKaA-suBOkpPPORVTgyDf96Yjdy0L8U3ZL8imj3yerRE795GbFF1LNrBMG4YPgrRk3RDnu61xfD_dwiKKaixQKZDSraU0pgpKeUaG16BQ_49jR-KdMj7V9gnpoDWEhm4Vx75_i6wX0aKSeUuNTDIpv0caWDoSAIaawZsah44L2u_raulF2CbayU4WOQF1QaaY_U_EEsSy9Tm7zCijYlb6rM08vOdQ9jtGBfNKPTyochM_rt0sPHaMDCWsWpBf2rcaJ1-Hy1Cn9Tp1vnzH6cBEqYSDm2tINU1SlhyfOgAw_CAfMWI63yDutOHT8PRMMKuOzWYvGWsjGOcpmyHS86sQIh4-WS-5=w2874-h1642-no?authuser=0" alt="" />
+                    </a>
                 
                     <div className=' space-y-10 px-0 md:px-10 max-w-6xl'>
                         <h4 className=' text-4xl font-semibold text-center'>
-                            <span className='underline decoration-[#F7AB0A]/50'> Car remote </span>{' '} 
+                            <span className='underline decoration-[#F7AB0A]/50'> Starbucks </span>{' '} 
                         </h4>
                         
                     </div>
                     <p className=' text-lg text-center md:text-left'>
-                        This is my first time of making Team Project, With my brothers of Cloud Computing Team. <br /> With this app, we can remote any cars.
-                        While Coding, we used Reactjs, MUI liblary, <br /> NodedJs and some other libraries
+                        This is my really first project When I was learning Javascript <br /> this is not include many codes or any libraries too. but I think this website has very good appearance. <br />
+                        I used to write only Html, Css and Javascript codes
                     </p>
                 </article>
 
