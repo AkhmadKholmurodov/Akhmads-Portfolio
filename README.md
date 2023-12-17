@@ -6,7 +6,8 @@ I added Animated text
 Next page is About Page
 <img width="1436" alt="Screenshot 2023-12-11 at 3 22 34 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/98996ed1-57ca-42a4-8a6c-8d428e75b734">
 This page is About Experiences
-<img width="1436" alt="Screenshot 2023-12-11 at 3 22 34 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/10d7698e-38d0-428f-8cf2-e1ef4dc0548b">
+<img width="1440" alt="Screenshot 2023-12-11 at 3 22 57 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/b27035d2-680c-447a-a286-0672da169d8e">
+
 This page says about my Skills
 <img width="1440" alt="Screenshot 2023-12-11 at 3 23 09 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/b8d6c47a-763c-4f9b-b8db-0d39500b4c89">
 Projects Page
