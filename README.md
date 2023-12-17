@@ -1,4 +1,4 @@
-This is my Portfolio website without backend codes I used only nextjs and TailwindCss
+This is my Animated Portfolio website without backend codes I used only nextjs and TailwindCss \n
 In this page you can see
 <img width="1440" alt="Screenshot 2023-12-11 at 3 03 07 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/fe5ae471-e5a3-4dd5-af22-8365019d2355">
 <img width="1440" alt="Screenshot 2023-12-11 at 3 22 15 PM" src="https://github.com/AkhmadKholmurodov/Akhmads-Portfolio/assets/87185085/6a7ce739-df32-4d39-b4cd-68fe56fc1190">
